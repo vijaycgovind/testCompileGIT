@@ -16,6 +16,7 @@ public class testCompile {
 		// TODO Auto-generated method stub		
 		System.out.println("Jai Vinayaka from compile ----->>>");
 		System.out.println("java testing 123");
+		System.out.println("CHAMP HELLLO");
 
 	}
 
